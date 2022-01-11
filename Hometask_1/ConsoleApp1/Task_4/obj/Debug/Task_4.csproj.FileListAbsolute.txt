@@ -6,3 +6,10 @@ C:\Users\andrii.dereviaga\source\repos\Andrii_Dereviaga\Hometask_1\ConsoleApp1\T
 C:\Users\andrii.dereviaga\source\repos\Andrii_Dereviaga\Hometask_1\ConsoleApp1\Task_4\obj\Debug\Task_4.csproj.CoreCompileInputs.cache
 C:\Users\andrii.dereviaga\source\repos\Andrii_Dereviaga\Hometask_1\ConsoleApp1\Task_4\obj\Debug\Task_4.exe
 C:\Users\andrii.dereviaga\source\repos\Andrii_Dereviaga\Hometask_1\ConsoleApp1\Task_4\obj\Debug\Task_4.pdb
+C:\Users\Миша\Source\Repos\Andrii_Dereviaga\Hometask_1\ConsoleApp1\Task_4\bin\Debug\Task_4.exe.config
+C:\Users\Миша\Source\Repos\Andrii_Dereviaga\Hometask_1\ConsoleApp1\Task_4\bin\Debug\Task_4.exe
+C:\Users\Миша\Source\Repos\Andrii_Dereviaga\Hometask_1\ConsoleApp1\Task_4\bin\Debug\Task_4.pdb
+C:\Users\Миша\Source\Repos\Andrii_Dereviaga\Hometask_1\ConsoleApp1\Task_4\obj\Debug\Task_4.csproj.AssemblyReference.cache
+C:\Users\Миша\Source\Repos\Andrii_Dereviaga\Hometask_1\ConsoleApp1\Task_4\obj\Debug\Task_4.csproj.CoreCompileInputs.cache
+C:\Users\Миша\Source\Repos\Andrii_Dereviaga\Hometask_1\ConsoleApp1\Task_4\obj\Debug\Task_4.exe
+C:\Users\Миша\Source\Repos\Andrii_Dereviaga\Hometask_1\ConsoleApp1\Task_4\obj\Debug\Task_4.pdb

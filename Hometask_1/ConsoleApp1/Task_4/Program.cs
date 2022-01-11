@@ -14,8 +14,8 @@ namespace Task_4
             Point point2 = new Point("Point_B", 50, 0);
             Point point3 = new Point("Point_C", 50, 50);
 
-            Figure figure = new Figure(point1, point2, point3);
-            figure.PerimeterCalculator(point1, point2, point3);
+            Figure figure = new Figure(new Point[] { point1, point2, point3 });
+            figure.PerimeterCalculator(new Point[] { point1, point2, point3 });
 
             Console.ReadKey();
 

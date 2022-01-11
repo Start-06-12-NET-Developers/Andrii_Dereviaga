@@ -22,7 +22,7 @@ namespace ConsoleApp1
 
         public double AreaCalculator(double side1, double side2)
         { 
-            area = side1 * side2;   
+            area = this.side1 * this.side2;   
             return area;    
         
         }
@@ -31,7 +31,7 @@ namespace ConsoleApp1
 
         { 
         
-            perimeter = (side1 + side2)*2;   
+            perimeter = (this.side1 + this.side2)*2;   
             return Perimeter;   
         
         }

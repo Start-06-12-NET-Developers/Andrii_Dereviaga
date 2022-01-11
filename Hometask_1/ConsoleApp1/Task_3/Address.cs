@@ -8,12 +8,12 @@ namespace Task_3
 {
     internal class Address
     {
-        string index; public string Index { get; set; }
-        string country; public string Country { get; set; }
-        string city; public string City { get; set; }
-        string street; public string Street { get; set; }
-        string house; public string House { get; set; }
-        string apartment; public string Apartment { get; set; }
+        public string index; public string Index { get { return index; } set { index = value; } }
+        public string country; public string Country { get { return country; } set { country = value; } }
+        public string city; public string City { get { return city; } set { city = value; } }
+        public string street; public string Street { get { return street; } set { street = value; } }
+        public string house; public string House { get { return house; } set { house = value; } }
+        public string apartment; public string Apartment { get { return apartment; } set { apartment = value; } }
 
         public void Show()
         {

@@ -8,10 +8,21 @@ namespace Task_4
 {
     internal class Figure
     {
-        public Figure(Point point1, Point point2, Point point3)
+        public Figure(Point[] array)
         {
-            Console.WriteLine("Triangle");
-                        
+            if (array.Length == 3)
+            {
+                Console.WriteLine("Треугольник");
+            }
+            if (array.Length == 4)
+            {
+                Console.WriteLine("Четырехугольник");
+            }
+            if (array.Length == 5)
+            {
+                Console.WriteLine("пятиугольник");
+            }
+
         }
 
         public double LengthSide(Point A, Point B)
@@ -20,9 +31,22 @@ namespace Task_4
             return lengthAB;
         }
 
-        public void PerimeterCalculator(Point point1, Point point2, Point point3)
+        //public void PerimeterCalculator(Point point1, Point point2, Point point3)
+        //{
+        //    double perimeter = LengthSide(point1, point2) + LengthSide(point3, point1) + LengthSide(point2, point3);
+        //    Console.WriteLine("Perimeter is {0} ", perimeter);
+        //}
+
+
+        public void PerimeterCalculator(Point[] array)
         {
-            double perimeter = LengthSide(point1, point2) + LengthSide(point3, point1) + LengthSide(point2, point3);
+            double perimeter = default;
+
+            for (int i = 0; i < 1; i++)
+            {
+                 perimeter = LengthSide(array[i], array[i + 1]) + LengthSide(array[i + 2], array[i]) + 
+                 LengthSide(array[i + 1], array[i + 2]);
+            }
             Console.WriteLine("Perimeter is {0} ", perimeter);
         }
     }

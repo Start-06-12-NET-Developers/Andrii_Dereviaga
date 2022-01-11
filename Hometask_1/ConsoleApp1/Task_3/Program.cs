@@ -12,12 +12,12 @@ namespace Task_3
         {
 
             Address address = new Address();
-            address.Index = "02225";
-            address.City = "Kyiv";
-            address.Country = "Ukraine";
-            address.Street = "Perova";
-            address.House = "10";
-            address.Apartment = "335";
+            address.index = "02225";
+            address.city = "Kyiv";
+            address.country = "Ukraine";
+            address.street = "Perova";
+            address.house = "10";
+            address.apartment = "335";
 
             address.Show();
             Console.ReadKey();
