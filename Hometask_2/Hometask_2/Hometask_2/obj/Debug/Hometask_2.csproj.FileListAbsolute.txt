@@ -6,3 +6,10 @@ C:\Users\andrii.dereviaga\source\repos\Andrii_Dereviaga\Hometask_2\Hometask_2\Ho
 C:\Users\andrii.dereviaga\source\repos\Andrii_Dereviaga\Hometask_2\Hometask_2\Hometask_2\obj\Debug\Hometask_2.csproj.CoreCompileInputs.cache
 C:\Users\andrii.dereviaga\source\repos\Andrii_Dereviaga\Hometask_2\Hometask_2\Hometask_2\obj\Debug\Hometask_2.exe
 C:\Users\andrii.dereviaga\source\repos\Andrii_Dereviaga\Hometask_2\Hometask_2\Hometask_2\obj\Debug\Hometask_2.pdb
+C:\Users\XPS\source\repos\Andrii_Dereviaga\Hometask_2\Hometask_2\Hometask_2\bin\Debug\Hometask_2.exe.config
+C:\Users\XPS\source\repos\Andrii_Dereviaga\Hometask_2\Hometask_2\Hometask_2\bin\Debug\Hometask_2.exe
+C:\Users\XPS\source\repos\Andrii_Dereviaga\Hometask_2\Hometask_2\Hometask_2\bin\Debug\Hometask_2.pdb
+C:\Users\XPS\source\repos\Andrii_Dereviaga\Hometask_2\Hometask_2\Hometask_2\obj\Debug\Hometask_2.csproj.AssemblyReference.cache
+C:\Users\XPS\source\repos\Andrii_Dereviaga\Hometask_2\Hometask_2\Hometask_2\obj\Debug\Hometask_2.csproj.CoreCompileInputs.cache
+C:\Users\XPS\source\repos\Andrii_Dereviaga\Hometask_2\Hometask_2\Hometask_2\obj\Debug\Hometask_2.exe
+C:\Users\XPS\source\repos\Andrii_Dereviaga\Hometask_2\Hometask_2\Hometask_2\obj\Debug\Hometask_2.pdb

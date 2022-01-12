@@ -11,8 +11,10 @@ namespace Task_3
         static void Main(string[] args)
         {
             Start:
-            
-            Console.WriteLine("\nEnter login");
+
+            Console.Clear();
+
+            Console.WriteLine("\nEnter Correct login");
             string login = Console.ReadLine();
 
             Console.WriteLine("Enter Name");
@@ -24,9 +26,10 @@ namespace Task_3
             Console.WriteLine("Enter Age");
             int age = int.Parse(Console.ReadLine());
 
-            User user = new User(name, surname, age);
+            User user = new User(login, name, surname, age);
             Console.WriteLine($"Date:Time - {user.Date} \nName - {user.Name} \n Surname - {user.Surname} \nAge - {user.Age}");
             Console.WriteLine("For continue enter y");
+            
             if (Console.ReadKey().Key == ConsoleKey.Y) goto Start;
             
         }

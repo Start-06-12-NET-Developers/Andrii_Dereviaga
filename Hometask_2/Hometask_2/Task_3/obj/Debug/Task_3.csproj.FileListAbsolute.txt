@@ -6,3 +6,9 @@ C:\Users\andrii.dereviaga\source\repos\Andrii_Dereviaga\Hometask_2\Hometask_2\Ta
 C:\Users\andrii.dereviaga\source\repos\Andrii_Dereviaga\Hometask_2\Hometask_2\Task_3\obj\Debug\Task_3.csproj.CoreCompileInputs.cache
 C:\Users\andrii.dereviaga\source\repos\Andrii_Dereviaga\Hometask_2\Hometask_2\Task_3\obj\Debug\Task_3.exe
 C:\Users\andrii.dereviaga\source\repos\Andrii_Dereviaga\Hometask_2\Hometask_2\Task_3\obj\Debug\Task_3.pdb
+C:\Users\XPS\source\repos\Andrii_Dereviaga\Hometask_2\Hometask_2\Task_3\bin\Debug\Task_3.exe.config
+C:\Users\XPS\source\repos\Andrii_Dereviaga\Hometask_2\Hometask_2\Task_3\bin\Debug\Task_3.exe
+C:\Users\XPS\source\repos\Andrii_Dereviaga\Hometask_2\Hometask_2\Task_3\bin\Debug\Task_3.pdb
+C:\Users\XPS\source\repos\Andrii_Dereviaga\Hometask_2\Hometask_2\Task_3\obj\Debug\Task_3.csproj.CoreCompileInputs.cache
+C:\Users\XPS\source\repos\Andrii_Dereviaga\Hometask_2\Hometask_2\Task_3\obj\Debug\Task_3.exe
+C:\Users\XPS\source\repos\Andrii_Dereviaga\Hometask_2\Hometask_2\Task_3\obj\Debug\Task_3.pdb
