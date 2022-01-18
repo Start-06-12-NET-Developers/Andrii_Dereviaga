@@ -6,3 +6,17 @@ C:\Users\andrii.dereviaga\source\repos\Andrii_Dereviaga\Hometask_2\Hometask_2\Ta
 C:\Users\andrii.dereviaga\source\repos\Andrii_Dereviaga\Hometask_2\Hometask_2\Task_2\obj\Debug\Task_2.csproj.CoreCompileInputs.cache
 C:\Users\andrii.dereviaga\source\repos\Andrii_Dereviaga\Hometask_2\Hometask_2\Task_2\obj\Debug\Task_2.exe
 C:\Users\andrii.dereviaga\source\repos\Andrii_Dereviaga\Hometask_2\Hometask_2\Task_2\obj\Debug\Task_2.pdb
+C:\Users\XPS\source\repos\Andrii_Dereviaga\Hometask_2\Hometask_2\Task_2\bin\Debug\Task_2.exe.config
+C:\Users\XPS\source\repos\Andrii_Dereviaga\Hometask_2\Hometask_2\Task_2\bin\Debug\Task_2.exe
+C:\Users\XPS\source\repos\Andrii_Dereviaga\Hometask_2\Hometask_2\Task_2\bin\Debug\Task_2.pdb
+C:\Users\XPS\source\repos\Andrii_Dereviaga\Hometask_2\Hometask_2\Task_2\obj\Debug\Task_2.csproj.AssemblyReference.cache
+C:\Users\XPS\source\repos\Andrii_Dereviaga\Hometask_2\Hometask_2\Task_2\obj\Debug\Task_2.csproj.CoreCompileInputs.cache
+C:\Users\XPS\source\repos\Andrii_Dereviaga\Hometask_2\Hometask_2\Task_2\obj\Debug\Task_2.exe
+C:\Users\XPS\source\repos\Andrii_Dereviaga\Hometask_2\Hometask_2\Task_2\obj\Debug\Task_2.pdb
+C:\Users\Миша\Source\Repos\Andrii_Dereviaga\Hometask_2\Hometask_2\Task_2\bin\Debug\Task_2.exe.config
+C:\Users\Миша\Source\Repos\Andrii_Dereviaga\Hometask_2\Hometask_2\Task_2\bin\Debug\Task_2.exe
+C:\Users\Миша\Source\Repos\Andrii_Dereviaga\Hometask_2\Hometask_2\Task_2\bin\Debug\Task_2.pdb
+C:\Users\Миша\Source\Repos\Andrii_Dereviaga\Hometask_2\Hometask_2\Task_2\obj\Debug\Task_2.csproj.AssemblyReference.cache
+C:\Users\Миша\Source\Repos\Andrii_Dereviaga\Hometask_2\Hometask_2\Task_2\obj\Debug\Task_2.csproj.CoreCompileInputs.cache
+C:\Users\Миша\Source\Repos\Andrii_Dereviaga\Hometask_2\Hometask_2\Task_2\obj\Debug\Task_2.exe
+C:\Users\Миша\Source\Repos\Andrii_Dereviaga\Hometask_2\Hometask_2\Task_2\obj\Debug\Task_2.pdb

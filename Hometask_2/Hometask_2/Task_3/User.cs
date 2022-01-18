@@ -8,16 +8,13 @@ namespace Task_3
 {
     internal class User
     {
-        public readonly DateTime date = DateTime;
+        static public readonly DateTime date = DateTime.Now;
         public DateTime Date
         {
             get { return date; }
         }
         string login;
-        public string Login
-        {
-            get { return name; }
-        }
+        
         string name;
         public string Name
         {
@@ -35,10 +32,12 @@ namespace Task_3
             get { return age; }
         }
 
-        public User(string name, string surname, int age)
-        { 
-        
-            //this.date = DateTime.Now;
+        public User(string login, string name, string surname, int age)
+        {
+
+            if (login != "Correct") { Console.WriteLine("Incorrect login"); Console.ReadKey(); Environment.Exit(0); }
+
+            this.login = login;
             this.name = name; 
             this.surname = surname;
             this.age = age;
