@@ -5,3 +5,9 @@ C:\Users\andrii.dereviaga\source\repos\Andrii_Dereviaga\Hometask_3\ConsoleApp1\T
 C:\Users\andrii.dereviaga\source\repos\Andrii_Dereviaga\Hometask_3\ConsoleApp1\Task_4\obj\Debug\Task_4.csproj.CoreCompileInputs.cache
 C:\Users\andrii.dereviaga\source\repos\Andrii_Dereviaga\Hometask_3\ConsoleApp1\Task_4\obj\Debug\Task_4.exe
 C:\Users\andrii.dereviaga\source\repos\Andrii_Dereviaga\Hometask_3\ConsoleApp1\Task_4\obj\Debug\Task_4.pdb
+D:\ABC\06.12 (900) .Net Dev\Андрей Деревяга\Базовый 3\Hometask_3\ConsoleApp1\Task_4\bin\Debug\Task_4.exe.config
+D:\ABC\06.12 (900) .Net Dev\Андрей Деревяга\Базовый 3\Hometask_3\ConsoleApp1\Task_4\bin\Debug\Task_4.exe
+D:\ABC\06.12 (900) .Net Dev\Андрей Деревяга\Базовый 3\Hometask_3\ConsoleApp1\Task_4\bin\Debug\Task_4.pdb
+D:\ABC\06.12 (900) .Net Dev\Андрей Деревяга\Базовый 3\Hometask_3\ConsoleApp1\Task_4\obj\Debug\Task_4.csproj.CoreCompileInputs.cache
+D:\ABC\06.12 (900) .Net Dev\Андрей Деревяга\Базовый 3\Hometask_3\ConsoleApp1\Task_4\obj\Debug\Task_4.exe
+D:\ABC\06.12 (900) .Net Dev\Андрей Деревяга\Базовый 3\Hometask_3\ConsoleApp1\Task_4\obj\Debug\Task_4.pdb

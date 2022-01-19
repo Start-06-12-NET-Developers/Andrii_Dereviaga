@@ -6,3 +6,10 @@ C:\Users\andrii.dereviaga\source\repos\Andrii_Dereviaga\Hometask_4\Task_1\Task_1
 C:\Users\andrii.dereviaga\source\repos\Andrii_Dereviaga\Hometask_4\Task_1\Task_1\obj\Debug\Task_1.csproj.CoreCompileInputs.cache
 C:\Users\andrii.dereviaga\source\repos\Andrii_Dereviaga\Hometask_4\Task_1\Task_1\obj\Debug\Task_1.exe
 C:\Users\andrii.dereviaga\source\repos\Andrii_Dereviaga\Hometask_4\Task_1\Task_1\obj\Debug\Task_1.pdb
+D:\ABC\06.12 (900) .Net Dev\Андрей Деревяга\Базовый 3\Hometask_4\Task_1\Task_1\bin\Debug\Task_1.exe.config
+D:\ABC\06.12 (900) .Net Dev\Андрей Деревяга\Базовый 3\Hometask_4\Task_1\Task_1\bin\Debug\Task_1.exe
+D:\ABC\06.12 (900) .Net Dev\Андрей Деревяга\Базовый 3\Hometask_4\Task_1\Task_1\bin\Debug\Task_1.pdb
+D:\ABC\06.12 (900) .Net Dev\Андрей Деревяга\Базовый 3\Hometask_4\Task_1\Task_1\obj\Debug\Task_1.csproj.AssemblyReference.cache
+D:\ABC\06.12 (900) .Net Dev\Андрей Деревяга\Базовый 3\Hometask_4\Task_1\Task_1\obj\Debug\Task_1.csproj.CoreCompileInputs.cache
+D:\ABC\06.12 (900) .Net Dev\Андрей Деревяга\Базовый 3\Hometask_4\Task_1\Task_1\obj\Debug\Task_1.exe
+D:\ABC\06.12 (900) .Net Dev\Андрей Деревяга\Базовый 3\Hometask_4\Task_1\Task_1\obj\Debug\Task_1.pdb
