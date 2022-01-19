@@ -8,56 +8,13 @@ namespace Task_3
 {
     internal class Document
     {
-        string title;
-        string body;
-        string footer;
+        Title title;
+        Body body;
+        Footer footer;
 
-        public string Title
-        {
-            private get
-            {
-                if (title != null)
-                    return title;
-                else
-                    return "Тело документа отсутствует.";
-            }
-            set
-            {
-                title = value;
-            }
-        }
 
-            public string Body
-        {
-            private get
-            {
-                if (body != null)
-                    return body;
-                else
-                    return "Тело документа отсутствует.";
-            }
-            set
-            {
-                body = value;
-            }
-        }
 
-        public string Footer
-        {
-            private get
-            {
-                if (footer != null)
-                    return footer;
-                else
-                    return "Тело документа отсутствует.";
-            }
-            set
-            {
-                footer = value;
-            }
-        }
-
-        public Document(string title, string body, string footer)
+        public Document (Title title, Body body, Footer footer)
         { 
             this.title = title;
             this.body = body;   
@@ -66,8 +23,9 @@ namespace Task_3
 
         public void Show()
         {
-            Console.ForegroundColor = ConsoleColor.Blue;
-            Console.WriteLine($"Title - {title}\nFooter - {footer}\nBody - {body}");
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine($"Title - {title.TitleInfo}\nFooter - {footer.FooterInfo}\nBody - {body.BodyInfo}");
+            Console.WriteLine(new string('-', 200));
             Console.ResetColor();
         }
     }
