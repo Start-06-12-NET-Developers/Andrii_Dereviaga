@@ -5,7 +5,22 @@
       "ProjectGuid": "5d531d0a-a393-4e53-b3b3-bc3e9e2d34ed",
       "DisplayName": "ConsoleApp1",
       "ColorIndex": 0
+    },
+    "7d090b08-0180-4c6c-a823-16445be35304": {
+      "ProjectGuid": "7d090b08-0180-4c6c-a823-16445be35304",
+      "DisplayName": "Task_2",
+      "ColorIndex": 1
+    },
+    "a2f0efc6-9a35-437f-bb21-0df744ba9b0e": {
+      "ProjectGuid": "a2f0efc6-9a35-437f-bb21-0df744ba9b0e",
+      "DisplayName": "Task_3",
+      "ColorIndex": 2
+    },
+    "2d4a8830-60d1-49ff-93d6-bc648685c595": {
+      "ProjectGuid": "2d4a8830-60d1-49ff-93d6-bc648685c595",
+      "DisplayName": "Task_4",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 4
 }

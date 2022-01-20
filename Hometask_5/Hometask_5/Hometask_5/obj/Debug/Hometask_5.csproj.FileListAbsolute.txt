@@ -1,0 +1,8 @@
+C:\Users\andrii.dereviaga\source\repos\Andrii_Dereviaga\Hometask_5\Hometask_5\Hometask_5\bin\Debug\Hometask_5.exe.config
+C:\Users\andrii.dereviaga\source\repos\Andrii_Dereviaga\Hometask_5\Hometask_5\Hometask_5\bin\Debug\Hometask_5.exe
+C:\Users\andrii.dereviaga\source\repos\Andrii_Dereviaga\Hometask_5\Hometask_5\Hometask_5\bin\Debug\Hometask_5.pdb
+C:\Users\andrii.dereviaga\source\repos\Andrii_Dereviaga\Hometask_5\Hometask_5\Hometask_5\obj\Debug\Hometask_5.csproj.AssemblyReference.cache
+C:\Users\andrii.dereviaga\source\repos\Andrii_Dereviaga\Hometask_5\Hometask_5\Hometask_5\obj\Debug\Hometask_5.csproj.SuggestedBindingRedirects.cache
+C:\Users\andrii.dereviaga\source\repos\Andrii_Dereviaga\Hometask_5\Hometask_5\Hometask_5\obj\Debug\Hometask_5.csproj.CoreCompileInputs.cache
+C:\Users\andrii.dereviaga\source\repos\Andrii_Dereviaga\Hometask_5\Hometask_5\Hometask_5\obj\Debug\Hometask_5.exe
+C:\Users\andrii.dereviaga\source\repos\Andrii_Dereviaga\Hometask_5\Hometask_5\Hometask_5\obj\Debug\Hometask_5.pdb
